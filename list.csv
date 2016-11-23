@@ -1,4 +1,4 @@
-,entityId,name,description,hashtags,visibility
+,listId,name,description,hashtags,visibility
 0,100, , ,[],True
 1,351,Paris 14ième,,[[]],True
 2,5,Hip hop ,,[[]],False
